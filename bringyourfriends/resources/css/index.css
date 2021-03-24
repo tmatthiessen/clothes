@@ -1,0 +1,23 @@
+body{
+    /* background-color: #DCF6F1; */
+    background:url(../images/IMG_1841.JPG);
+    background-size: auto;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+.main{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.photo{
+    /* width: 70%;
+    height: auto; */
+    width: 800px;
+    height:auto;
+}
+#small-logo{
+    width:30%;
+    height: auto;
+}
+    
+
